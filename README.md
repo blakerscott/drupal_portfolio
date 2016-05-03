@@ -6,13 +6,13 @@
 
 ## Description
 
-This project is a basic web app, build for the purpose of demonstrating proficiency creating custom modules.  The task given was to create a version of the Caesar Cipher with form validation.  
+This project was built for the purpose of demonstrating proficiency creating custom modules.  The task given was to create a version of the Caesar Cipher with form validation.  
 
 ## Setup/Installation Requirements
 
 ### Setup of databases
 
-1. Clone this repository from https://github.com/blakerscott/DrupalCodeReviewWeek1.
+1. Clone this repository from https://github.com/blakerscott/drupal_portfolio.
 2. Open MAMP.  If you do not already have it, you can download it here:            https://www.mamp.info/en/
 3. Point MAMP at the project directory.
 4. Create the following Database user:
