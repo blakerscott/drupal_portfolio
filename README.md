@@ -6,7 +6,7 @@
 
 ## Description
 
-This project is a basic web app, build for the purpose of demonstrating proficiency with the skills taught in the first week of the Epicodus Drupal course.  
+This project is a basic web app, build for the purpose of demonstrating proficiency creating custom modules.  The task given was to create a version of the Caesar Cipher with form validation.  
 
 ## Setup/Installation Requirements
 
